@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- Meta file is created. It contains all version of commited files and othe data which is necessary for repo
+- it is necessary to initialize a repository in order to show to git wich files I want to track
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is virtual directory wich can contain different groups of files. It probably gives an opportunity to add same files to differnt staging areas
